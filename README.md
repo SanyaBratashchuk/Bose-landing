@@ -1,7 +1,7 @@
 # Bose landing
 An adaptive Bose landing page implemented according to [figma design](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
 
-To see a demo click [here](https://sanyabratashchuk.github.io/Air-landing/)
+To see a demo click [here](https://sanyabratashchuk.github.io/Bose-landing/)
 ### Technologies
 1. HTML5
 2. SCSS
